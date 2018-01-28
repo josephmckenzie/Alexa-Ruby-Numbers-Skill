@@ -1,0 +1,10 @@
+NumberFact tell me a {FactType} fact about {Number}
+
+For Custom sot type enter FACT_TYPE
+
+then in values enter 
+
+triva
+math
+
+notice they are line seperated
