@@ -127,3 +127,4 @@ This repo will show you how to build a simple Alexa skill ("Jon says") that uses
    
 
 JonSays-AlexaSkill-Ruby
+Alexa-Ruby-Numbers-Skill
